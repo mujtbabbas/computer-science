@@ -14,8 +14,23 @@
 </p>
 </div>
 
+## About This Standalone Edition
+
+- **Main repository:** [ossu/computer-science](https://github.com/ossu/computer-science)
+- **Based on version:** upstream commit `33d44a44e3526ede8e862bf1ad50ae5ae7a2f112` (snapshotted 2026-10-20; upstream HEAD dated 2026-07-13)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions (upstream delete-empty-issues workflow kept as-is)
+  - `.editorconfig` — standard editor settings (UTF-8, LF, 2-space indent)
+- **Credit & licence:** All original work belongs to the Open Source Society University (ossu) and the upstream contributors. Licence is preserved unchanged — see `LICENSE` (MIT). This edition adds the enhancements listed above only.
+
 # Contents
 
+- [About This Standalone Edition](#about-this-standalone-edition)
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
