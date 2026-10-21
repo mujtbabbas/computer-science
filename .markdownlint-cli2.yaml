@@ -1,0 +1,9 @@
+ignores:
+  - "*/**/*.md"
+  - ".github/**/*.md"
+  - "CHANGELOG.md"
+  - "CONTRIBUTING.md"
+  - "CURRICULAR_GUIDELINES.md"
+  - "FAQ.md"
+  - "HELP.md"
+  - "README.md"
